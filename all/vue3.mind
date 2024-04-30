@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d0x2oz8gw0w0","created":1714441228178,"text":"vue3"},"children":[{"data":{"id":"d0x2pwpmkyw0","created":1714441301050,"text":"说一下main.js的写法变化"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d0x2oz8gw0w0","created":1714441228178,"text":"vue3"},"children":[{"data":{"id":"d0x2pwpmkyw0","created":1714441301050,"text":"说一下main.js的写法变化","note":"createApp(App).use(store).use(router).mount('#app')；"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
